@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Adam, a Computer Science student.
+
+I currently learning and building full stack applications.
+
+Fun facts:
+- I once tried nose irrigator and almost drowned
+- I had a world record in Google Chrome Dinosaur Game
+- Hobbies: Anime, Pixel Art, Gym
 <!--
 **Adamooy/Adamooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
