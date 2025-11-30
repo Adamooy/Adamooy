@@ -2,7 +2,7 @@
 
 I'm Adam, a Computer Science student.
 
-I currently learning and building full stack applications.
+I'm currently learning and building full stack applications.
 
 Fun facts:
 - I once tried nose irrigator and almost drowned
